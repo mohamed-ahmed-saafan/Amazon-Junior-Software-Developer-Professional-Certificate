@@ -1,0 +1,3 @@
+John Doe, IT, 4500
+Alice Smith, HR, 5000
+Bob Johnson, Sales, 6000

@@ -1,0 +1,3 @@
+Ahmed, Software Engineer, 5000
+Sara, Data Analyst, 4500
+John, Tester, 4000

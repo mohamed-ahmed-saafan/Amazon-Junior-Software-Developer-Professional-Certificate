@@ -1,0 +1,2 @@
+Manager{name='Jane Smith', salary=7000.0, department=Department{name='Jane Smith'}}
+Manager{name='Bob Lee', salary=6000.0, department=Department{name='Bob Lee'}}

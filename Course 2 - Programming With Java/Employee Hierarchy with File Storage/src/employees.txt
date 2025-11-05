@@ -1,0 +1,4 @@
+John Doe,IT,4500,Developer
+Jane Smith,HR,7000,Manager
+Bob Lee,Finance,6000,Manager
+Alice White,IT,4000,Developer
