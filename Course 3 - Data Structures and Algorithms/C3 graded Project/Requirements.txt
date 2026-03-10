@@ -1,0 +1,27 @@
+1- Accurately read and parse book data from a file, create Book objects, and add them to the books list.
+
+2- Apply sorting algorithms (e.g. bubble sort) to organize the books list based on criteria such as title, author, or publication year.
+
+3- Implement a search function in the Library class to locate a book by a keyword (e.g. title, author, or year).
+
+4- Design and implement a text-based menu to allow users to interact with the application for searching, viewing, and sorting data.
+
+5- Track user activities, such as searches and sorts, by implementing a logging mechanism for monitoring and debugging.
+
+6- Serialize the data structure to save the library state to a file, and deserialize it to restore the state when the program restarts.
+
+src folder components :
+
+1- Main class: The entry point of the application. It ties together all components and manages the application's flow.
+
+2- Book class: Represents a book entity with attributes like title, author, and publication year.
+
+3- Library class: Manages a collection of Book objects, including methods to load, view, and handle books.
+
+4- SortUtil class: Provides sorting algorithms for organizing the list of books by different criteria.
+
+5- LibraryMenu class: Implements a user interface for interacting with the library, such as searching for books, exiting the program, and invoking different sorting methods.
+
+6- UserInteractionLogger class: Logs user interactions, such as searches and sorting actions.
+
+7- LibrarySerializer class: Handles the serialization and deserialization of the Library object, saving and loading the application's state.
